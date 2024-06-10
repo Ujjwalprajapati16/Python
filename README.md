@@ -46,6 +46,9 @@ The repository is organized into the following categories:
 - `polymorphism.py`
 - `recursive_function.py`
 
+### Handling API
+- `freeapi_username.py`
+
 ### Loops Problems
 - `count_positive_numbers.py`
 - `exponential_backoff.py`
@@ -69,12 +72,18 @@ The repository is organized into the following categories:
 - `property_decorators.py`
 - `static_method.py`
 
-### Main Script
-- `main.py`
+### Projects
+- `youtube_manager.py`
+- `youtube_manager_mongodb.py`
+- `youtube_manager_db.py`
+- `youtube_video_db`
+
+### Jupyter Notebook
+- `first.ipynb`
 
 ## Usage
 
 To run any of the scripts, navigate to the directory containing the script and execute it using Python. For example:
 
 ```bash
-python Conditional Problems/age_catagrization.py
+python Conditional\ Problems/age_catagrization.py
