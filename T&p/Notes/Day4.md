@@ -178,7 +178,7 @@ else:
 Bye
 ```
 
-> [!QUESTION]
+> [!IMPORTANT]
 Sum of digits of number.
 num = 512
 o/p = 5 + 1+ 2 = 8
@@ -195,7 +195,7 @@ while num>0:
 print(sum) # 8
 ```
 
-> [!QUESTION]
+> [!IMPORTANT]
 find the product of digit of the number.
 ```python
 num = 512
@@ -209,7 +209,7 @@ while num>0:
 print(pro) # 10
 ```
 
-> [!QUESTION]
+> [!IMPORTANT]
 Find first and last digit of the number and then sum
 ```python
 num = 512
@@ -223,7 +223,7 @@ while num>0:
 print(first + last) # 7
 ```
 
-> [!QUESTION]
+> [!IMPORTANT]
 find the smallest digit for each digit position and then the largest digit from the all numbers at thousands place
 
 hundreds tens ones
@@ -239,5 +239,5 @@ constraints:
 ### Interview quetion
 > [!NOTE]
 > Difference between while loop and for loop
-> We already know number of steps we use for loop , when we don't know number of steps we use while loop
+We already know number of steps we use for loop , when we don't know number of steps we use while loop
 
