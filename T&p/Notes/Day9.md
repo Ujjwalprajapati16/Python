@@ -95,7 +95,7 @@ a = [1, 5, 8, 9, 6, 11, 4]
 5. **sum(list)** => return the sum of list.
 6. **sorted(list)** => it sort the list in ascending order
     - if want to sort in descending order.
-    - **sorted(list, reverse=True)**
+    - `sorted(list, reverse=True)`
 7. **enumerate(list)** => it returns the list into tuple.
 8. **zip(list1, list2)** => it returns object of combined of list in tuple where each index are combined.
     - list1 and list2 should be of same length or it only return the min length.
