@@ -5,10 +5,10 @@ class Dog:
         self.age = age
         
     
-dog = Dog("Buddy", 3)
-# print(dog.species, dog.name, dog.age)
+# dog = Dog("Buddy", 3)
+# # print(dog.species, dog.name, dog.age)
 
-dog.species = "Lebrradog"
+# dog.species = "Lebrradog"
 # print(dog.species)
 
 # dog1 = Dog("Dedda", 5)
@@ -16,8 +16,7 @@ dog.species = "Lebrradog"
 # print(dog1.age)
 # print(dog1.species)
 
-class lebrradog(dog):
-    breed = 'Lebrradog'
+class lebrradog(Dog):
     def __init__(self, name, age, breed):
         super().__init__(name, age)
         self.breed = breed
